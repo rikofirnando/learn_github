@@ -1,0 +1,5 @@
+Rencana belajar saya adalah:
+- GitHub
+- Git
+- Gitlab
+- Postman
