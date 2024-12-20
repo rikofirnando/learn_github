@@ -3,3 +3,4 @@ Rencana belajar saya adalah:
 - Git
 - Gitlab
 - Postman
+- Docker
