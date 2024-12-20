@@ -5,4 +5,4 @@ Rencana belajar saya adalah:
 - Postman
 - Docker
 - Jenkins
-- Prometheus
+- Sonarscanner
