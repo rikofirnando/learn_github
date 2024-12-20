@@ -4,3 +4,4 @@ Rencana belajar saya adalah:
 - Gitlab
 - Postman
 - Docker
+- Jenkins
